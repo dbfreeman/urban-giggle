@@ -1,2 +1,2 @@
 # urban-giggle
-My first repository setup for Visual Studio Python
+Setup for Visual Studio Python
